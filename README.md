@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SightseR
+- 🌱 Software Engineer
 - 👀 I’m interested in ...Coding, Developing, Testing
-- 🌱 I’m currently learning ... Software Engineering
 - 💞️ I’m looking to collaborate on ... Projects as a newbie
 - 📫 How to reach me ... k3akalanka@gmail.com
 
